@@ -12,6 +12,8 @@ The dataset includes sample data for:
 - **Shippers:** The details of the shippers who ship the products from the traders to the end-customers
 - **Orders and Order_Details:** Sales Order transactions taking place between the customers & the company
 
+Link to the dataset: [NorthWind Traders Dataset](https://app.mavenanalytics.io/datasets?search=northwind)
+
 Below, I'm doing an exploratory data analysis using SQL in order to understand the data and how the company works, 'whats their main product', 'from where the customers are?', 'how is the revenue trending over time ?'
 
 ## EXPLORING PRODUCTS
